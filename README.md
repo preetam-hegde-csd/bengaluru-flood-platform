@@ -17,3 +17,4 @@ flood_app/
 4. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+# bengaluru-flood-platform
